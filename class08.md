@@ -59,5 +59,7 @@
 - https://algorithmicbotany.org/
 - https://web.stanford.edu/class/archive/cs/cs103/cs103.1156/tools/cfg/
 
+- https://en.wikipedia.org/wiki/Context-free_grammar#Examples
+- https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form#Example
 
 <!-- https://www.russellgordon.ca/cemc/2017/lindenmayer-systems/ -->
