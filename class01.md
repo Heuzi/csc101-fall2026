@@ -26,7 +26,7 @@
         - Already set up [VirtualBox Ubuntu 25.04 disk image](https://www.osboxes.org/ubuntu/) - may be a *very slow* download, but you do not have to go through the install process in the video. Just open the machine in VirtualBox and see the [info tab](https://www.osboxes.org/ubuntu/#ubuntu-25-04-info) for the default account username/password.
 
 
-    - The fundamental difference is that the Ubuntu 25.04 Installer ISO requires you to build and configure a brand-new virtual machine from scratch by manually adjusting settings (like RAM and disk size) and running through the operating system's installation wizard. In contrast, the Pre-set up VirtualBox Disk Image is a pre-built shortcut where the operating system has already been installed and configured for you, allowing you to simply import the file and log in using the provided default credentials.
+        - The fundamental difference is that the Ubuntu 25.04 Installer ISO requires you to build and configure a brand-new virtual machine from scratch by manually adjusting settings (like RAM and disk size) and running through the operating system's installation wizard. In contrast, the Pre-set up VirtualBox Disk Image is a pre-built shortcut where the operating system has already been installed and configured for you, allowing you to simply import the file and log in using the provided default credentials.
 
 - Start using ✨ keyboard shortcuts in your OS
     - https://www.system-overload.org/windows-keyboard-shortcuts.pdf
