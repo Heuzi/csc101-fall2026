@@ -2,7 +2,7 @@
 
 ## In-class
 
-- Clone our class portfolio repo: https://github.com/berry-cs/csc101-portfolio-fall2025
+- Clone our class portfolio repo: https://github.com/Heuzi/csc101-portfolio-fall2026
     > As long as you sent me your Github username, you should be a collaborator on the repo and have access to contribute to it.
 
 - Overview of Markdown

@@ -1,4 +1,4 @@
-# CSC 101 - Introduction to Computing - Fall 2025<br>Course Repository
+# CSC 101 - Introduction to Computing - Fall 2026<br>Course Repository
 
 ## Syllabus
 

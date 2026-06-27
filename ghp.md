@@ -8,7 +8,7 @@
 
 ## Tasks
 
-Follow the instructions in `readme.md` at https://github.com/berry-cs/csc101-portfolio-fall2025
+Follow the instructions in `readme.md` at https://github.com/Heuzi/csc101-portfolio-fall2026
 
 ### Summary
 
