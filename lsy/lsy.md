@@ -91,3 +91,21 @@ Design two L-systems that can be rendered using the tool at: https://piratefsh.g
     - a complete set of rules for your system
     - a description of the process you went through to create the design, 
 
+## Part 3 - The Famous MU Puzzle
+
+The MU puzzle is a classic example of a formal system and a simple proof puzzle. It starts with the string `MI` and allows only these transformations:
+
+- add a `U` to the end of a string that already contains an `I`
+- duplicate the string
+- replace `MI` with `MUI`
+- replace `III` with `U`
+- replace `UU` with nothing
+
+Your task is to explore the puzzle and answer the following:
+
+1. Can you derive the string `MU` from `MI` using the allowed rules?
+2. What makes this puzzle interesting as a formal system?
+3. Write a short explanation of why the puzzle is tricky, even though the rules are simple.
+
+If you want, you can also try to explain the puzzle in terms of formal grammars or rewriting systems.
+
