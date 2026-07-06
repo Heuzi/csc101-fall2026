@@ -1,4 +1,4 @@
-# Class 2 - Git & GitHub; Markdown; VS Code
+# Git & GitHub; Markdown; VS Code
 
 ## In-class
 

@@ -1,4 +1,4 @@
-# Class 11 - Graph Algorithms
+# Graph Algorithms
 
 
 

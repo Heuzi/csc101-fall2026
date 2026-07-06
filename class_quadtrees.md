@@ -1,4 +1,4 @@
-# Class 7 - Quadtrees
+# Quadtrees
 
 
 ## In-class

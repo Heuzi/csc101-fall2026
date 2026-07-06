@@ -1,4 +1,4 @@
-# Class 5 - Productivity: Excel, Kanban, VS Code
+# Productivity: Excel, Kanban, VS Code
 
 ## In-class
 

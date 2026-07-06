@@ -1,4 +1,4 @@
-# Class 6 - Linux Jeopardy!
+# Linux Jeopardy!
 
 *Created from your questions!*
 

@@ -1,4 +1,4 @@
-# Class 8 - L-systems; Formal grammars
+# L-systems; Formal grammars
 
 ## In-class
 

@@ -1,4 +1,4 @@
-# Class 1 - Welcome! & Setup
+# Welcome! & Setup
 
 ## In-class
 

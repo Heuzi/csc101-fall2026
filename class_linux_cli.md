@@ -1,4 +1,4 @@
-# Class 4 - Linux; Command-line interfaces
+# Linux; Command-line interfaces
 
 ## In-class
 

@@ -1,4 +1,4 @@
-# Class 3 - Boolean logic; Satisfiability
+# Boolean logic; Satisfiability
 
 ## In-class
 
