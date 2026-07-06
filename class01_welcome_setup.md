@@ -48,4 +48,3 @@
     - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) + [Ubuntu Linux](https://ubuntu.com/download/desktop)
     - VS Code: https://code.visualstudio.com
     - GitHub Desktop: https://github.com/apps/desktop
-

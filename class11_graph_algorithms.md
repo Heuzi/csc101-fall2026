@@ -39,8 +39,6 @@ MAT 303A	Linear Algebra	    M W F   1pm - 1:50pm
 >       D: 10:00 - 11:00
 >       E: 11:00 - 12:00
 >
-
 ## I.S.
 
 ## 3-SAT reduction
-

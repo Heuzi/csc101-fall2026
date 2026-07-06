@@ -19,9 +19,9 @@
     45  <--- the number
 
     74  one correct, wrong place  =>  (s27 /\ -s14 /\ -s24 /\ -s17) \/ (s14 /\ -s17 /\ -s27 /\ -s24)
-    93  no			      =>  -s19 ∧ -s29 ∧ -s13 ∧ -s23
+    93  no		      =>  -s19 ∧ -s29 ∧ -s13 ∧ -s23
     55  one correct place	      =>  (s15 ∧ -s25) v (-s15 ∧ s25)
-    17  no			      =>  -s11 ∧ -s21 ∧ -s17 ∧ -s27
+    17  no		      =>  -s11 ∧ -s21 ∧ -s17 ∧ -s27
 
     https://www.erpelstolz.at/gateway/formular-uk-zentral.html
     (convert to CNF)
@@ -72,13 +72,8 @@
 
 
 
-
 ## References and Links
 
 - [Boolean Logic](https://www.cs.utexas.edu/~dnp/frege/chapter-2.html) chapter of *Reasoning: An Introduction to Logic, Sets, and Functions*
 
 - [Boolean Game](https://boolean.method.ac/) - random fun - image editing tools
-
-- [MiniSat in your browser](https://www.msoos.org/2013/09/minisat-in-your-browser/) (another tool)
-
-- [Fast Analysis of the OpenAI O1-Preview Model in Solving Random K-SAT Problem: Does the LLM Solve the Problem Itself or Call an External SAT Solver?](https://arxiv.org/html/2409.11232v2)
