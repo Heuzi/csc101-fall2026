@@ -374,7 +374,7 @@ Your answer should be thoughtful and specific. Use examples from your own simula
 | Category | Points |
 |---|---:|
 | Clear AI prompt or AI-agent workflow | 20 |
-| Complete simulator activity | 15 |
+| Complete simulator activity (at least 10 trades) | 15 |
 | Complete personal trade notes / journal | 20 |
 | Evidence checking and reasoning | 15 |
 | AI risk audit | 20 |
@@ -419,4 +419,4 @@ This challenge is about learning how to use AI carefully in a risky decision-mak
 
 The most important skill is not trading.
 
-The most important skill is knowing when to question the AI.
+The most important skill is knowing how to manage AI and when to question the AI.
