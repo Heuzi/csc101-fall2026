@@ -56,6 +56,10 @@ The simulator records simulated trades and portfolio performance.
 
 Your personal notes record your thinking, your AI prompt, your reasoning, your doubts, and your reflection. The personal notes are required because the simulator alone does not fully explain why you made each decision.
 
+You must keep your own notes outside the simulator.
+
+Download and use the [AIT personal trade journal Excel template](./ait_trade_journal.xlsx).
+
 ---
 
 ## Recommended Simulator
@@ -85,10 +89,8 @@ Unless your instructor says otherwise, follow these rules:
 
 - Use simulated money only.
 - Trade stocks or ETFs only.
-- Do not trade options.
-- Do not use margin.
-- Do not short sell.
-- Do not use cryptocurrency unless your instructor allows it.
+- Do not trade options or short sell unless you know what they are.
+- Do not use cryptocurrency.
 - Make 10-20 simulated trades total.
 - Keep notes for every trade.
 
@@ -109,7 +111,7 @@ You may use:
 - VS Code with an AI assistant
 - Another instructor-approved AI tool
 
-Your AI assistant should not simply answer, “Buy this stock” or “Sell this stock.”
+Your AI assistant should not simply answer, “Buy this stock” or “Sell this stock.” Your next-door neighbor Joe can do that.
 
 Instead, it should produce a structured recommendation with evidence, risks, uncertainty, and reasons it could be wrong.
 
@@ -117,7 +119,9 @@ Instead, it should produce a structured recommendation with evidence, risks, unc
 
 ## Starter Prompt
 
-You may copy, paste, and modify this prompt:
+You may start from "Time to buy MSFT now?"
+
+Or you may copy, paste, and modify this prompt:
 
 ```text
 You are a cautious educational stock-analysis assistant helping me with a classroom simulation.
@@ -172,11 +176,9 @@ Your instructor may change this list.
 
 Use your AI trading assistant prompt.
 
-Save the AI’s response in your notes.
+You can choose to copy the response into your personal trade journal, or summarize it carefully.
 
-You may copy the response into your personal trade journal, or summarize it carefully.
-
-For each recommendation, record:
+For each recommendation, you can record:
 
 - What ticker you asked about
 - What prompt you used
@@ -190,99 +192,36 @@ For each recommendation, record:
 
 ## Step 4: Make Your Own Human Decision
 
-You do not have to follow the AI.
+You do not have to follow the AI. Decide whether to **buy, sell, hold, or do nothing**.
 
-After reading the AI’s recommendation, make your own decision:
+Start a new row in your trade journal and record:
 
-- Buy
-- Sell
-- Hold
-- Do nothing
-
-Before placing the simulated trade, write a short note explaining your decision.
-
-Your note should answer:
-
-1. What did the AI recommend?
-2. Do I agree with the AI?
-3. What evidence seems strongest?
-4. What evidence seems weakest?
-5. What could go wrong?
-6. Am I trusting the AI too much?
+- The date/time and ticker
+- The AI recommendation
+- Your decision
+- Your thinking process
+- Your confidence level
+- What the AI might be missing
 
 ---
 
 ## Step 5: Place the Simulated Trade
 
-Use the trading simulator to place your simulated trade.
+If you decide to buy or sell, place the simulated trade in the trading simulator. If you decide to hold or do nothing, do not place a trade.
 
-Record the trade in your personal notes.
-
-For each trade, record:
-
-| Item | What to Record |
-|---|---|
-| Date | When you made the simulated trade |
-| Ticker | Stock or ETF symbol |
-| Action | Buy, sell, hold, or no trade |
-| Simulated shares | Number of shares |
-| Simulated price | Entry price |
-| AI recommendation | What the AI suggested |
-| Human decision | What you decided |
-| Reason | Why you made the decision |
-| Confidence | 1 to 5 |
-| Main risk | What could go wrong |
+Record your action in the **Buy/Sell** column of the same journal row.
 
 ---
 
 ## Step 6: Track the Outcome
 
-After some time has passed, check what happened.
+Return to your journal after **one week** and again after **two weeks**.
 
-For each simulated trade, record:
+- Record the payout or gain/loss for a simulated trade.
+- Update the one-week and two-week outcome columns, even if you chose not to buy or sell.
+- If you forgot to revisit after one/two week(s), that's OK, you can look up the stock's history price and add the entries back later.
 
-| Item | What to Record |
-|---|---|
-| Current price | Price when you checked later |
-| Gain/loss | Whether the simulated trade went up or down |
-| AI accuracy | Did the AI’s prediction seem correct, incorrect, or unclear? |
-| Process quality | Was the AI’s reasoning good, even if the result was unlucky? |
-| Reflection | What did you learn? |
-
-Remember:
-
-A profitable trade does not prove the AI was smart.
-
-An unprofitable trade does not automatically prove the AI was bad.
-
-You are evaluating the **quality of the reasoning**, not just the outcome.
-
----
-
-## Required Personal Notes / Trade Journal
-
-You must keep your own notes outside the simulator.
-
-Your notes may be in:
-
-- Excel
-- Google Sheets
-- Word
-- Google Docs
-- Markdown
-- A text file
-- Another format approved by your instructor
-
-Your notes must include:
-
-1. Your AI prompt
-2. The AI recommendation
-3. Your simulated trade
-4. Your human reasoning
-5. Your risk analysis
-6. Your later reflection
-
-Your instructor may provide an Excel template for this.
+A reminder: You are graded on your **reasoning and reflection**, not on whether the trade made money.
 
 ---
 
@@ -322,9 +261,19 @@ For each AI recommendation, answer these questions:
 
 ## Final Submission
 
-Submit an **AI Trading Agent Reflection Report**.
+Submit a **two-page AI Trading Agent Reflection Report** using the following format:
 
-Your report should include the following sections.
+- **Page size:** US Letter (8.5 × 11 inches)
+- **Font:** 12-point Times New Roman
+- **Margins:** 1 inch on all sides
+- **Line spacing:** Single-spaced within each paragraph
+- **Paragraph spacing:** Leave one blank line between paragraphs; do not add extra blank lines
+- **Alignment:** Left-aligned
+- **Section headings:** Use the numbered headings below in 12-point bold text
+- **Title page:** Do not include a separate title page
+- **File format:** Submit as a PDF unless your instructor specifies otherwise
+
+The report should be two pages of written content and should include the following sections.
 
 ---
 
@@ -332,7 +281,7 @@ Your report should include the following sections.
 
 Describe the AI tool and prompt you used.
 
-Include:
+For example:
 
 - Which AI tool you used
 - Your prompt
@@ -343,9 +292,9 @@ Include:
 
 ### 2. My Simulated Trades
 
-Summarize your simulated trades.
+Summarize your simulated trades. Don't give me the whole lists, just highlight the important ones or your general strategy/theme.
 
-Include:
+For example:
 
 - Tickers
 - Dates
@@ -353,17 +302,15 @@ Include:
 - Simulated entry prices
 - Later outcomes
 
-You may include a screenshot from the simulator if your instructor allows it.
-
 ---
 
 ### 3. My Personal Trade Notes
 
 Summarize what you recorded in your own notes.
 
-Explain:
+For example, explain:
 
-- Why you made each trade
+- Why you made some trade
 - Whether you followed or rejected the AI’s recommendation
 - What risks you noticed
 - What information you thought was missing
