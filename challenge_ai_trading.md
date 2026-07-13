@@ -89,8 +89,7 @@ Unless your instructor says otherwise, follow these rules:
 - Do not use margin.
 - Do not short sell.
 - Do not use cryptocurrency unless your instructor allows it.
-- Do not put more than 25% of your simulated portfolio into one stock or ETF.
-- Make 3 to 5 simulated trades total.
+- Make 10-20 simulated trades total.
 - Keep notes for every trade.
 
 These limits are here because the assignment is about AI literacy, not gambling or high-risk speculation.
