@@ -20,7 +20,7 @@
 
 ## Assignment
 
-- [**Quadtree decoding [QDT]**](qdt/qdt.md)
+- [**Quadtree decoding [QDT]**](qdt/challenge_qdt.md)
 
 - [Pixel Art Competition](https://cs.berry.edu/pixelcomp/)
 

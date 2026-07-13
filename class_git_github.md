@@ -7,14 +7,14 @@
 
 - Overview of Markdown
 
-- On your computer, use VS Code to open the `readme.md` file and follow the instructions to complete the [GHP](./ghp.md) weekly challenge. We'll start in class...
+- On your computer, use VS Code to open the `readme.md` file and follow the instructions to complete the [GHP](./challenge_ghp.md) weekly challenge. We'll start in class...
 
 
 ## Assignment
 
 - Complete remaining parts (3+4) of [Learning Git and GitHub](https://www.linkedin.com/learning/learning-git-and-github-23011330) [1h 45m].
 
-- [**[GHP] Github Pages Portfolio**](./ghp.md)
+- [**[GHP] Github Pages Portfolio**](./challenge_ghp.md)
 
 - Continue skill practice: [Typing](https://typing.com)
 

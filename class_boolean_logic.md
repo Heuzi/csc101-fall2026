@@ -63,9 +63,9 @@
 
 - LinkedIn Learning: [Linux Command Line (intro, part 1+2+3)](https://www.linkedin.com/learning/learning-linux-command-line-14447912) [1hr 49m]
 
-- [WTQ] [Write the Question - Linux/CLI](linux-ques.md)
+- [WTQ] [Write the Question - Linux/CLI](challenge_linux-ques.md)
 
-- [**[SAT] Boolean Satisfiability Challenge**](./sat.md)
+- [**[SAT] Boolean Satisfiability Challenge**](./challenge_sat.md)
 
 - Continue skill practice: [Typing](https://typing.com)
 

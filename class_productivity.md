@@ -36,7 +36,7 @@
 
 ## Assignment
 
-- [**Student grade book worksheet formulas [XGB]**](xgb/xgb.md)
+- [**Student grade book worksheet formulas [XGB]**](xgb/challenge_xgb.md)
 
 - Complete LinkedIn Learning: [Linux Command Line (4, 5, conclusion)](https://www.linkedin.com/learning/learning-linux-command-line-14447912) [1hr 5m]
 

@@ -11,7 +11,7 @@
 
 - Complete LinkedIn Learning: [Learning Excel Desktop (1h 31m)](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024)
 
-- [WTQ] [Write the Question - Linux/CLI](linux-ques.md)
+- [WTQ] [Write the Question - Linux/CLI](challenge_linux-ques.md)
 
 - Start working on at least [Day 1] to [Day 5] of [**Advent of Cyber** 2024](https://tryhackme.com/room/adventofcyber2024) (see the syllabus - you may complete more days for additional points up to 10)
 

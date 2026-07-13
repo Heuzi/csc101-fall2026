@@ -47,7 +47,7 @@
 
 ## Assignment
 
--  [Grammars & L-system design [LSY]](lsy/lsy.md)
+-  [Grammars & L-system design [LSY]](lsy/challenge_lsy.md)
 
 
 ## Resources
