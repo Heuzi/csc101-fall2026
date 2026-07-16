@@ -12,7 +12,7 @@ CSC 101 is the preferred destination for incoming first semester declared CS maj
 |---------|---------|---------------------------------|-------------------------------|-----------|
 | 1       |  Aug 26 | [Welcome & Setup](class_welcome_setup.md)               | - OS tips&tricks: [[Mac 1](https://www.linkedin.com/learning/macos-quick-tips) + [2](https://www.youtube.com/watch?v=IIBnh74b474)] [[Windows](https://www.linkedin.com/learning/windows-tips-and-tricks)] [2hr] | <> |
 | 2       |  Sep 2  | [Git & GitHub; Markdown; VS Code](class_git_github.md)   | - [Typing](https://typing.com)  <br>- [Git & GitHub (part 1+2)](https://www.linkedin.com/learning/learning-git-and-github-23011330) [1h 45m] | [GitHub Pages](./challenge_ghp.md) [GHP] |
-| 3       |  Sep 9  | [Vibe Coding](./class_tbd.md) | - Typing |  |
+| 3       |  Sep 9  | [Vibe Coding](./class_vibe_coding.md) | - Typing |  |
 | 4       |  Sep 16 | Agentic AI and Its Danger | | [Trading with AI [AIT]](challenge_ai_trading.md) |
 | 5       |  Sep 23 | [Boolean logic and satisfiability](class_boolean_logic.md)        | - [Git & GitHub (part 3+4)](https://www.linkedin.com/learning/learning-git-and-github-23011330) [1h 45m] <br>- Typing  |  [Boolean satisfiability](challenge_sat.md) [SAT] |
 | 6       |  Sep 30 | [Linux; Command-line interface](class_linux_cli.md) | - [Linux Command Line (intro, part 1+2+3)](https://www.linkedin.com/learning/learning-linux-command-line-14447912) [1hr 49m] <br>- Typing |  - [Linux Scavenger Hunt](https://github.com/pushingice/scavenger-hunt) [LSH]<br>- [WTQ: Linux/CLI](./challenge_linux-ques.md) |
