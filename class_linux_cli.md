@@ -2,7 +2,7 @@
 
 ## In-class
 
-- Linux/CLI demos - (*SW Carpentry/ChatGPT)
+- Demonstrate Linux/CLI commands using [Software Carpentry's Unix Shell lesson](https://swcarpentry.github.io/shell-novice/) and ChatGPT-generated examples.
 
 - Start the Scavenger Hunt!
 
