@@ -22,8 +22,6 @@
 
 - [**Quadtree decoding [QDT]**](qdt/challenge_qdt.md)
 
-- [Pixel Art Competition](https://cs.berry.edu/pixelcomp/)
-
 - Continue skill practice: [Typing](https://typing.com)
 
 

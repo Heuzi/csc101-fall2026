@@ -8,8 +8,6 @@
 
 ## Assignment
 
-- [**Pixel Art Competition**](https://cs.berry.edu/pixelcomp/)
-
 - Continue skill practice: [Typing](https://typing.com)
 
 

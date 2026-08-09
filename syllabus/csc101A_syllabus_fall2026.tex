@@ -1,0 +1,331 @@
+% CSC 101A Syllabus - Fall 2026 section A
+% Maintenance: keep this source and the generated PDF in sync with readme.md
+% whenever the course schedule, challenges, or major course content changes.
+
+\documentclass[11pt,letterpaper]{article}
+
+% -------------------
+% Page Layout and Packages
+% -------------------
+\usepackage[lmargin=0.9in,rmargin=0.9in,bmargin=0.9in,tmargin=0.9in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{charter}
+\usepackage{
+    amsmath,
+    enumerate,
+    float,
+    graphicx,
+    hyperref,
+    lastpage,
+    multicol,
+    multirow,
+    titling,
+    tabularx,
+    array,
+    xcolor,
+    fancyhdr,
+    longtable
+}
+
+% -------------------
+% Hyperlinks
+% -------------------
+\hypersetup{
+    colorlinks = true,
+    linkcolor  = blue,
+    urlcolor   = blue
+}
+\renewcommand\UrlFont{\normalfont}
+
+% -------------------
+% Helper Commands
+% -------------------
+\newcommand{\lefthead}[2]{\noindent\textbf{#1}\hfill\\[#2]}
+\newcommand{\blankline}{\par\vspace{0.3cm}}
+\newcommand{\coursename}{CSC 101 A: Introduction to Computing}
+
+% -------------------
+% Course Information
+% -------------------
+\newcommand{\instructor}{Xiaomeng Ye}
+\newcommand{\office}{MAC 354A}
+\newcommand{\email}{xye@berry.edu}
+\newcommand{\phone}{}
+\newcommand{\website}{Canvas course page}
+\newcommand{\officehours}{TBA}
+
+\newcommand{\coursecode}{CSC 101 A}
+\newcommand{\coursetitle}{Introduction to Computing}
+\newcommand{\semester}{Fall 2026}
+\newcommand{\classdates}{August 24--December 11, 2026}
+\newcommand{\classtime}{Wednesdays, 1:00--1:50pm}
+\newcommand{\classroom}{McAllister Hall 233}
+\newcommand{\credits}{1 credit; catalog format: (1-0-1)}
+\newcommand{\prerequisites}{Intended for first-year Computer Science majors. May not be taken after CSC 120 for credit toward the Computer Science major.}
+\newcommand{\finalexam}{No separate final exam is listed in the original syllabus; follow Canvas and course announcements.}
+\newcommand{\canvaslink}{Canvas course page}
+\newcommand{\communication}{Discord Announcements}
+
+% -------------------
+% Header and Footer
+% -------------------
+\fancypagestyle{pages}{
+    \fancyhead[L]{}
+    \fancyhead[C]{}
+    \fancyhead[R]{}
+    \renewcommand{\headrulewidth}{0pt}
+    \fancyfoot[L]{}
+    \fancyfoot[C]{}
+    \fancyfoot[R]{\thepage\,of \pageref*{LastPage}}
+    \renewcommand{\footrulewidth}{0.0pt}
+}
+\headheight=0pt
+\footskip=20pt
+\pagestyle{pages}
+
+% -------------------
+% Title
+% -------------------
+\title{\Large\bfseries \coursecode: \coursetitle\\[0.1cm] \semester}
+\author{}
+\date{}
+\setlength{\droptitle}{-2cm}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+\vspace{-2cm}
+
+% -------------------
+% Instructor and Class Information
+% -------------------
+\lefthead{Instructor Information}{0.3cm}
+\indent \emph{Name:} \instructor \\
+\indent \emph{Office:} \office \\
+\indent \emph{Email:} \href{mailto:xye@berry.edu}{\email} \\
+\indent \emph{Student Hours:} \officehours
+\blankline
+
+\lefthead{Class Information}{0.3cm}
+\indent \emph{Course:} \coursename \\
+\indent \emph{Credits:} \credits \\
+\indent \emph{Prerequisites/Restrictions:} \prerequisites \\
+\indent \emph{Dates:} \classdates \\
+\indent \emph{Time:} \classtime \\
+\indent \emph{Classroom:} \classroom \\
+\indent \emph{Canvas:} \canvaslink \\
+\indent \emph{Final Exam:} \finalexam
+\blankline
+
+Important announcements will be made through \communication. It is your responsibility to check Discord, Canvas, the course GitHub repository, and related course resources regularly throughout the semester. A detailed schedule of class topics, activities, and assignments will be maintained on the course repository README and on Canvas.
+\blankline
+
+% -------------------
+% Course Overview
+% -------------------
+\lefthead{Course Description}{0.3cm}
+(1-0-1) An introduction to essential tools, techniques, and computing concepts that are used and taught throughout the Computer Science major. This course is intended for first-year Computer Science majors. May not be taken after CSC 120 for credit toward the Computer Science major.
+\blankline
+
+\lefthead{Vision and Purpose}{0.3cm}
+\textbf{Our purpose:} prepare for the study of Computer Science. This course gives first-year Computer Science majors early practice with the tools, habits, and core ideas they will repeatedly encounter in later courses. Rather than focusing on a single programming language, the course emphasizes the practical computing environment: accounts, software setup, command-line work, version control, productivity tools, AI-assisted work habits, and the computational ideas that connect these topics.
+\blankline
+
+\lefthead{Core Tools, Skills, and Concepts}{0.3cm}
+\begin{center}
+\begin{tabularx}{0.95\textwidth}{|>{\bfseries}l|X|}
+\hline
+Tools & Virtual machines; Linux; Git and GitHub; Markdown; Visual Studio Code; AI coding assistants; Excel and productivity tools. \\ \hline
+Skills & Touch typing; command-line usage; version control; spreadsheet modeling; prompt-and-test workflows; file system management; responsible AI use. \\ \hline
+Concepts & AI agents and human oversight; Boolean logic and satisfiability; data representation; file formats; quadtrees; formal grammars; L-systems; portfolios and computing trajectories. \\ \hline
+\end{tabularx}
+\end{center}
+\blankline
+
+\lefthead{Student Learning Outcomes and Assessment Measures}{0.3cm}
+Upon successful completion of this course, students will be able to:
+\begin{itemize}
+    \item Work with tools commonly used in software development and computer science. This outcome is measured through in-class participation and weekly activities.
+    \item Demonstrate basic proficiency in prerequisite skills for studying computer science. This outcome is measured through completion of online learning modules.
+    \item Reproduce the operation of representative computational algorithms. This outcome is measured through weekly puzzle challenges.
+\end{itemize}
+
+\lefthead{Textbook, Resources, and Technology Use in Class}{0.3cm}
+\noindent \emph{Textbook/Readings:} No required textbook is listed. Readings, modules, and activities will be provided through Canvas, the course GitHub repositories, LinkedIn Learning, Typing.com, GitHub, selected online tools, and other course resources.\\
+\noindent \emph{Required Technology/Software:} Students will work with virtual machines, Linux, productivity software, version control systems, development tools, GitHub, Visual Studio Code, Excel, online typing practice resources, and approved AI tools used under the course AI policy.
+\blankline
+
+\lefthead{Phone and Device Policies}{0.3cm}
+A laptop or classroom computer is necessary for setup activities, online modules, command-line practice, spreadsheets, version control, and other course-related work. Phones are generally not needed and should be put away during class unless the instructor gives permission or there is an urgent reason. Please use technology for course work rather than unrelated browsing, messaging, or entertainment.
+\blankline
+
+% -------------------
+% Attendance and Work Expectations
+% -------------------
+\lefthead{Class Attendance and Participation}{0.3cm}
+Class attendance is expected and required. Missing three or more classes without justifiable reason, advance notice, and/or appropriate documentation will be considered excessive absence and may be grounds for being administratively withdrawn from the course. See the Berry Viking Code for class attendance policies.
+\blankline
+
+You are responsible for any material covered, work assigned, or course changes made during a class you miss. Because this course meets only once per week and relies heavily on in-class activities, each absence represents a substantial portion of the course.
+\blankline
+
+\lefthead{Late Submissions}{0.3cm}
+The original syllabus does not list a separate late-submission policy. Unless otherwise announced, assignment deadlines and submission expectations will be stated in Canvas, on the course website, or in class. If you anticipate a problem meeting a deadline, communicate with the instructor as early as possible.
+\blankline
+
+\lefthead{Collaboration Policy}{0.3cm}
+You are encouraged to discuss course ideas, general problem-solving approaches, tools, and concepts with classmates. However, do your own work. Do not look at others' work, use it to complete your own, or pass it off as yours. Do not share your own work in a way that allows another student to pass it off as their work. When you use outside sources, including generative AI, give credit clearly.
+\blankline
+
+% -------------------
+% Academic Integrity and AI
+% -------------------
+\newpage
+\lefthead{Academic Integrity and AI Usage}{0.3cm}
+Students are expected to have read and understood the rules governing academic integrity in the Viking Code and Berry College Catalog. Academic dishonesty will not be tolerated.
+\blankline
+
+\textbf{Do your own work.} Do not look at others' work, use it to complete your own, or pass it off as yours. Give credit to all sources, including generative AI. If you use AI or any outside resource to inform your work, you are responsible for understanding what you submit and for explaining how the resource was used. AI may not be used to replace the learning, practice, or demonstration of skill that an assignment is designed to develop.
+\blankline
+
+Violations will result in a negative point penalty per assignment and notification of the Provost, according to Berry College Catalog policy. If you are unsure whether a particular form of help is allowed, ask before submitting.
+\blankline
+
+% -------------------
+% Assessment and Grading
+% -------------------
+\lefthead{Evaluation Components}{0.3cm}
+Your final grade in the course will be based on completion of the components below and your earned point score.
+
+\begin{center}
+{\small
+\renewcommand{\arraystretch}{1.12}
+\begin{tabularx}{0.96\textwidth}{|>{\raggedright\arraybackslash\bfseries}p{0.24\textwidth}|>{\centering\arraybackslash}p{0.08\textwidth}|>{\raggedright\arraybackslash}X|}
+\hline
+Component & Points & Notes \\ \hline
+Attendance & 14 & Attend class meetings; excessive absence may lead to administrative withdrawal. \\ \hline
+Touch Typing & 5 & Demonstrate touch typing around 50--60 words per minute or show regular weekly practice. \\ \hline
+LinkedIn Learning & 7 & Complete assigned modules through Berry SSO at \url{https://myapps.berry.edu}. Each completed module is worth 1 point. \\ \hline
+TBA Activity Block 1 & 10 max & Points reserved for a future course task to be announced in Canvas and the course repository. \\ \hline
+Weekly Challenges & 16 & Current challenge labels include GHP, AIT, SAT, LSH, WTQ, XGB, EXT, QDT, and LSY. Canvas identifies submitted items and weights. \\ \hline
+TBA Activity Block 2 & 5 & Points reserved for a future course task to be announced in Canvas and the course repository. \\ \hline
+GitHub Repository Contributions & 5 & Contribute to a course repository or portfolio to demonstrate version-control practice. \\ \hline
+Jeopardy, Question Design, and AI Integrity Activities & 10 & Contribute questions and participate in activities such as Linux Jeopardy, AI trading reflection, and Impostor Hunt. \\ \hline
+\end{tabularx}
+}
+\end{center}
+
+\lefthead{Grading Scale}{0.3cm}
+These thresholds will not be raised, but they may be lowered by the end of the semester if adjustments to the schedule are made.
+\begin{center}
+\begin{tabular}{|l|ccccc|}
+\hline
+To earn & A & B & C & D & F \\ \hline
+Points required & 60 & 55 & 50 & 40 & $<40$ \\ \hline
+\end{tabular}
+\end{center}
+
+\noindent To earn an A in the course, students must also meet the following minimum requirements:
+\begin{itemize}
+    \item 12 points of attendance, meaning no more than two absences.
+    \item 6 LinkedIn Learning certificates earned.
+    \item Any additional minimum requirement attached to TBA point buckets will be announced before those tasks are assigned.
+    \item Weekly typing practice demonstrated, or achievement of a 60+ WPM rate with an 85\%+ accuracy rate.
+\end{itemize}
+If any of these thresholds is not met, the maximum final letter grade in the course will be capped at a B.
+\blankline
+
+% -------------------
+% Communication and Support
+% -------------------
+\lefthead{Let's Talk!}{0.3cm}
+Questions about scheduling, assignments, course material, tools, or topics you want to explore more deeply are welcome. For personal scheduling issues, individual concerns, feedback, or academic advice, email the instructor or come to student hours.
+\blankline
+
+\lefthead{Accommodation}{0.3cm}
+The Academic Success Center provides accessibility resources, including academic accommodations, to students with diagnosed differences and/or disabilities. If you need accommodations for this or other classes, please visit \url{https://www.berry.edu/ASC} for information and resources. You may also reach out at 706-233-4080. Please note that faculty are not required, as part of any temporary or long-term accommodation, to distribute recordings of class sessions.
+\blankline
+
+\lefthead{Academic Success Resources}{0.3cm}
+The Academic Success Center provides free peer tutoring and individual academic consultations to all Berry College students. The ASC session schedule is available on the ASC website: \url{https://www.berry.edu/ASC}. The goal of these meetings is to help students study smarter, not harder.
+\blankline
+
+\lefthead{Diversity, Equity, and Inclusion}{0.3cm}
+We are committed to a climate of mutual respect and full participation. My goal as your instructor is to create a learning environment that is usable, equitable, inclusive, and welcoming. If aspects of the instruction or design of this course create barriers to your inclusion, learning, accurate assessment, or achievement, you are invited to meet with the instructor to discuss strategies beyond formal accommodations that may support your success.
+\blankline
+
+\lefthead{Counseling Services}{0.3cm}
+If at any point during the semester you feel overwhelmed with class work, experience problems with physical or mental health, or face any other serious struggle, please seek help. The Counseling Center at Berry offers individual and group support. The Counseling Center website is \url{https://www.berry.edu/student-life/life-on-campus/counseling-center/}; it is located at the Ladd Center and can be contacted at 706-236-2259.
+\blankline
+
+\lefthead{Respect Policy}{0.3cm}
+\noindent I respect your time:
+\begin{itemize}
+    \item I will come prepared to help you understand the course material and prepare for assignments and assessments.
+    \item I am here to help you; let me know what I can do to support your success.
+\end{itemize}
+
+\noindent Respect my time:
+\begin{itemize}
+    \item Be on time to class.
+    \item Pay attention when I am talking with the class.
+    \item Come prepared by doing the work and seeking help when needed.
+\end{itemize}
+
+\noindent Respect each other:
+\begin{itemize}
+    \item Do not be disruptive. If you need to take a call or text someone, take it outside.
+    \item Work with each other to find solutions and deepen understanding.
+    \item Allow one another to make mistakes; mistakes are part of learning.
+    \item Use respectful language when talking with one another.
+\end{itemize}
+
+\lefthead{Tips for Success}{0.3cm}
+\begin{itemize}
+    \item Attend every class and arrive ready to participate.
+    \item Keep up with weekly activities; a one-credit course can still require regular work outside class.
+    \item Practice touch typing consistently rather than cramming near the end of the semester.
+    \item Begin online modules and weekly tasks early, especially when an activity uses time-limited access or shared resources.
+    \item Ask questions during class, student hours, or by email when a tool, command, or concept is unclear.
+    \item Keep your GitHub work organized so that your repository contributions show clear progress.
+\end{itemize}
+
+\newpage
+
+% -------------------
+% Tentative Schedule
+% -------------------
+\lefthead{Tentative Schedule}{0.3cm}
+This schedule is subject to change. The live schedule of class topics, activities, and assignments is maintained in the course repository README and on Canvas. Abbreviations used below: GHP = GitHub Pages; AIT = AI Trading Agent Simulation; SAT = Boolean Satisfiability problem; LSH = Linux Scavenger Hunt; WTQ = Write the Question; XGB = Student grade book worksheet; EXT = File forensics; QDT = Quadtree decoding; LSY = L-system design.
+
+% Maintenance: keep this table aligned with readme.md under "Schedule".
+
+\begin{center}
+\small
+\begin{tabularx}{0.98\textwidth}{|>{\raggedright\arraybackslash}p{0.26\textwidth}|>{\raggedright\arraybackslash}X|>{\raggedright\arraybackslash}p{0.24\textwidth}|}
+\hline
+\textbf{Date} & \textbf{Class Topic(s)} & \textbf{Weekly Activity / Notes} \\ \hline
+Wednesday, August 26, 2026 & Welcome and setup & Course setup; operating-system tips; begin typing practice. \\ \hline
+Wednesday, September 2, 2026 & Git and GitHub; Markdown; Visual Studio Code & GHP; Git and GitHub practice; continue typing practice. \\ \hline
+Wednesday, September 9, 2026 & Vibe Coding: build a small chess game & Prompting, testing, debugging, and finishing the capture-the-king chess activity. \\ \hline
+Wednesday, September 16, 2026 & Agentic AI and its danger & AI agent risk model; red-team/blue-team activity; AIT challenge introduced. \\ \hline
+Wednesday, September 23, 2026 & Boolean logic and satisfiability & SAT; continue Git and GitHub practice and typing. \\ \hline
+Wednesday, September 30, 2026 & Linux and the command-line interface & LSH; WTQ; Linux command-line practice. \\ \hline
+Wednesday, October 7, 2026 & Productivity: Excel, Kanban, and Visual Studio Code & XGB; Excel and productivity workflows. \\ \hline
+Wednesday, October 14, 2026 & Linux Jeopardy & Linux review game; EXT file forensics challenge. \\ \hline
+Wednesday, October 21, 2026 & Quadtrees & QDT; developer career paths and certifications. \\ \hline
+Wednesday, October 28, 2026 & L-systems and formal grammars & LSY; formal grammar design. \\ \hline
+Wednesday, November 4, 2026 & Trading with AI reflection & Reflect on AIT and discuss AI-assisted cheating and decision-making risks. \\ \hline
+Wednesday, November 11, 2026 & Impostor Hunt & Public-facing AI integrity activity; investigate AI-assisted cheating patterns. \\ \hline
+Wednesday, November 18, 2026 & Impostor Hunt reflection & Reflection and synthesis; connect AIT, agentic AI, and academic integrity. \\ \hline
+Wednesday, November 25, 2026 & Thanksgiving Holiday & No class. \\ \hline
+Wednesday, December 2, 2026 & Conclusion; portfolio; trajectory outlook & Portfolio wrap-up and next steps in computing. \\ \hline
+Wednesday, December 9, 2026 & Final examinations week, December 7--11 & No regular class meeting; follow Canvas for any final deadlines. \\ \hline
+\end{tabularx}
+\end{center}
+
+\lefthead{Weekly Activity Timeline}{0.3cm}
+Approximate outside/class activity time blocks include operating-system tips, Git and GitHub modules, Linux command-line modules, Excel practice, developer career-path material, typing practice, weekly challenges, and TBA activity blocks announced later. The course repository README is the source of truth for the current topic sequence; Canvas is the source of truth for due dates and submission instructions.
+
+\end{document}

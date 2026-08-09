@@ -40,8 +40,6 @@
 
 - Complete LinkedIn Learning: [Linux Command Line (4, 5, conclusion)](https://www.linkedin.com/learning/learning-linux-command-line-14447912) [1hr 5m]
 
-- [Advent of Cyber 2024](https://tryhackme.com/room/adventofcyber2024)
-
 - Continue skill practice: [Typing](https://typing.com)
 
 
