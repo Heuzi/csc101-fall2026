@@ -20,14 +20,14 @@ CSC 101 is the preferred destination for incoming first semester declared CS maj
 | 6       |  Sep 30 | [Linux; Command-line interface](class_linux_cli.md) (TODO) | - [Linux Command Line (intro, part 1+2+3)](https://www.linkedin.com/learning/learning-linux-command-line-14447912) [1hr 49m] <br>- Typing |  - [Linux Scavenger Hunt](https://github.com/pushingice/scavenger-hunt) [LSH] (TODO)<br>- [WTQ: Linux/CLI](./challenge_linux-ques.md) (TODO) |
 | 7       |  Oct 7  | [Productivity: Excel, Kanban, VS Code](./class_productivity.md) (TODO)       | - [Learning Excel Desktop (1h 31m)](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024) <br>- Typing | [Student grade book worksheet formulas [XGB]](xgb/challenge_xgb.md) (TODO) |
 | 8       |  Oct 14 | [Linux Jeopardy](./class_linux_jeopardy.md) (TODO) | - [Linux Command Line (part 4+5, conclusion)](https://www.linkedin.com/learning/learning-linux-command-line-14447912) [1hr 5m] <br>- Typing | [File forensics [EXT]](ext/challenge_ext.md) (TODO) |
-| 11      |  Nov 4  | Trading with AI [AIT] reflection (TODO) |  | Cheating with AI (TODO) |
-| 9       |  Oct 21 | [Quadtrees](./class_quadtrees.md) (TODO)          | - [Developer Career Paths and Certifications](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2?u=2300338) [48m] <br>- Typing |    [Quadtree decoding [QDT]](qdt/challenge_qdt.md) (TODO) |
-| 10      |  Oct 28 | [L-systems; Formal grammars](./class_lsystems.md) (TODO)      | - Typing | [Grammars & L-system design [LSY]](lsy/challenge_lsy.md) (TODO) |
+| 9       |  Oct 21 | Trading with AI [AIT] reflection (TODO) |  | Cheating with AI (TODO) |
+| 10      |  Oct 28 | [Quadtrees](./class_quadtrees.md) (TODO)          | - [Developer Career Paths and Certifications](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2?u=2300338) [48m] <br>- Typing |    [Quadtree decoding [QDT]](qdt/challenge_qdt.md) (TODO) |
+| 11      |  Nov 4  | [L-systems; Formal grammars](./class_lsystems.md) (TODO)      | - Typing | [Grammars & L-system design [LSY]](lsy/challenge_lsy.md) (TODO) |
 | 12      |  Nov 11 | Impostor Hunt (open to public) (TODO) |  | catch cheaters with AI (TODO) |
 | 13      |  Nov 18 | Imposter Hunt Reflection (TODO)  | | [Trading with AI [AIT]](challenge_ai_trading.md) (TODO) |
 | -       |  Nov 25 | Thanksgiving Holiday — no class (TODO) |  |  |
 | 14      |  Dec 2  | Conclusion; Portfolio; Trajectory Outlook (TODO)     |  |  |
-| -       |  Dec 9  | Final examinations week (Dec 7–11) (TODO) |  |  |
+| -       |  Dec 9  | Final examination, 11:00 am–1:00 pm (TODO) |  |  |
 ---------------------------------------------
 
 ## Additional Learning

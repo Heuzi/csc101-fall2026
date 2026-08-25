@@ -3,7 +3,8 @@
 ## In-class
 
 - Clone our class portfolio repo: https://github.com/Heuzi/csc101-portfolio-fall2026
-    > As long as you sent me your Github username, you should be a collaborator on the repo and have access to contribute to it.
+    > If a repo is public, anyone can clone from it.
+    > In other words, do not store private information on a public repo.
 
 - Overview of Markdown
 

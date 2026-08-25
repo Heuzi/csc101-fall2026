@@ -19,3 +19,7 @@ Follow the instructions in `readme.md` at https://github.com/Heuzi/csc101-portfo
 - Troubleshoot any merge issues together
 - Celebrate a successful push! 🎉
  
+### Extra
+
+If you want to go beyond creating a simple portfolio, and instead build a personal website that is hosted for free on github, you can do this:
+https://mh-n.github.io/guides/github-pages/
