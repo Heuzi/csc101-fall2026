@@ -1,6 +1,6 @@
 # CSC 101 Fall 2026 Handoff
 
-Status date: 2026-08-09
+Status date: 2026-08-25
 
 ## Current State
 
@@ -32,27 +32,29 @@ Status date: 2026-08-09
 - [ ] Fix stale numbered class link in `challenge_sat.md`.
   - Current file points to `./class03.md`.
   - Likely target is `./class_boolean_logic.md`.
-- [ ] Reorder README schedule rows around late October and early November.
-  - Current order has Class 11 / Nov 4 before Class 9 / Oct 21 and Class 10 / Oct 28.
+- [x] Reorder README schedule rows around late October and early November.
+  - Current order is Class 9 / Oct 21, Class 10 / Oct 28, and Class 11 / Nov 4.
 - [ ] Replace placeholder `<>` in the Class 1 challenge column or intentionally remove it.
 - [ ] Replace placeholder `[Link](#)` in `class_linux_jeopardy.md`.
 - [x] Remove Advent of Cyber and Pixel Art Competition from scheduled/assigned work.
   - Advent of Cyber remains only under `## Additional Learning` in `readme.md`.
   - Former Advent and Pixel Art syllabus point buckets are now TBA.
-- [ ] Assign replacement tasks for the TBA syllabus point buckets.
+- [x] Assign replacement tasks for the former TBA syllabus point buckets.
+  - Activity 1 is the 10-point AI Trading Agent Simulation: trading log (5) and reflection (5).
+  - Activity 2 is the 5-point AI Cheating and Impostor Hunt activity.
+- [x] Set revised letter-grade thresholds for the 61-point course total: A = 50, B = 46, C = 42, D = 36, and F below 36.
+- [x] Clarify the A-grade LinkedIn Learning minimum: complete at least six of the seven LinkedIn Learning activities.
 - [ ] Decide whether `class_graph_algorithms.md` is a reserve topic or should appear in the README schedule.
 
 ## Content Development Tasks
 
 - [ ] Expand `class_linux_jeopardy.md` into a student-facing activity page.
 - [ ] Flesh out Impostor Hunt and Impostor Hunt Reflection rows in `readme.md`.
-- [ ] Clarify the late-semester AI sequence:
+- [x] Clarify the late-semester AI sequence:
   - Agentic AI lesson
-  - AI Trading challenge
-  - Trading reflection
-  - Impostor Hunt
-  - Impostor Hunt reflection
-- [ ] Review assignment/challenge labels for consistency: `[GHP]`, `[AIT]`, `[SAT]`, `[LSH]`, `[WTQ]`, `[XGB]`, `[EXT]`, `[QDT]`, `[LSY]`.
+  - Activity 1: AI Trading log and reflection
+  - Activity 2: AI Cheating/Impostor Hunt and reflection
+- [ ] Review assignment/challenge labels for consistency: `[GHP]`, `[SAT]`, `[LSH]`, `[WTQ]`, `[XGB]`, `[EXT]`, `[QDT]`, and `[LSY]`; `[AIT]` is now Activity 1 rather than a Weekly Challenge.
 - [ ] Check whether every README challenge has a corresponding complete challenge file.
 - [ ] Decide whether `class_graph_algorithms.md` should be updated, archived, or linked from the schedule.
 
