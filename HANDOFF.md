@@ -8,7 +8,7 @@ Status date: 2026-08-25
 - Course repo has moved from numbered class files to topic-named class files, such as `class_welcome_setup.md`, `class_vibe_coding.md`, and `class_agentic_ai_danger.md`.
 - README schedule is present and mostly populated for the Fall 2026 Wednesday course arc.
 - Strongest current materials: `class_vibe_coding.md`, `class_agentic_ai_danger.md`, and `challenge_ai_trading.md`.
-- Stubbier materials that need another pass: `class_linux_jeopardy.md`, `class_graph_algorithms.md`, and the late-semester Impostor/AI reflection items in `readme.md`.
+- Stubbier materials that need another pass: `class_graph_algorithms.md` and the late-semester Impostor/AI reflection items in `readme.md`.
 
 ## Completed Before
 
@@ -35,7 +35,7 @@ Status date: 2026-08-25
 - [x] Reorder README schedule rows around late October and early November.
   - Current order is Class 9 / Oct 21, Class 10 / Oct 28, and Class 11 / Nov 4.
 - [ ] Replace placeholder `<>` in the Class 1 challenge column or intentionally remove it.
-- [ ] Replace placeholder `[Link](#)` in `class_linux_jeopardy.md`.
+- [x] Replace the scheduled 4-point Linux Jeopardy component with the 4-point Vibe Coding Project Share.
 - [x] Remove Advent of Cyber and Pixel Art Competition from scheduled/assigned work.
   - Advent of Cyber remains only under `## Additional Learning` in `readme.md`.
   - Former Advent and Pixel Art syllabus point buckets are now TBA.
@@ -48,7 +48,7 @@ Status date: 2026-08-25
 
 ## Content Development Tasks
 
-- [ ] Expand `class_linux_jeopardy.md` into a student-facing activity page.
+- [x] Add the Vibe Coding Project Share to the October 14 README and syllabus schedule.
 - [ ] Flesh out Impostor Hunt and Impostor Hunt Reflection rows in `readme.md`.
 - [x] Clarify the late-semester AI sequence:
   - Agentic AI lesson

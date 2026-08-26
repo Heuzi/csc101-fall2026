@@ -124,14 +124,16 @@ Your browser shows a playable two-person chessboard with turns, captures, a capt
 
 ## So, why not just let AI do it in one go?
 
-The main lesson here is that AI is best used as a tool in your workflow, not as a replacement for your own thinking. It can be great for repetitive tasks, brainstorming ideas, drafting text, organizing information, and helping you move faster. That is where it is strongest.
+The main lesson here is that AI is best used as a tool in your workflow, not as a replacement for your own thinking. It can be great for repetitive tasks, brainstorming ideas, drafting text, organizing information, and helping you move faster. That is where it is strongest (at least for now when this is written in 2026).
 
-But the important part is that the judgment still belongs to you. You are the one who decides what matters, what is worth doing, and whether the result is actually good. AI can help generate options, but it cannot replace your experience, your values, or your responsibility.
+But the important part is that the judgment still belongs to you. You are the one who decides what matters, what is worth doing, and whether the result is actually good. AI can help generate options, but it cannot replace your experience, your culture, your values, or your responsibility.
 
 A good way to think about it is this: AI is more like a very capable assistant than a decision-maker. You would not let a tool make a medical decision, a scientific claim, or a financial plan for you without questioning it, just because it sounds confident. The same standard should apply here.
 
-You can also think of it like hiring a team member. If you are starting a business, AI can help you do work faster, but your success still depends on your leadership. You still need to plan expenses, allocate resource, set goals, assign tasks, check the results, and think ahead about what could go wrong. If you do not know where you are going, even the smartest assistant will not save you. For example, imagine yourself the sole inheritor of Jeff Bezos, and Jeff pass you his business, you are left with the most amount of resource, best talented people, best logistics in the world, can you confidently say that you will not squander that in one year? Do you have a basic plan of what to do?
+You can also think of it like hiring a team member. If you are starting a business, AI can help you do work faster, but your success still depends on your leadership. You still need to plan expenses, allocate resource, set goals, assign tasks, check the results, and think ahead about what could go wrong. If you do not know where you are going, even the smartest assistant will not save you. For example, imagine yourself the sole inheritor of Jeff Bezos, and Jeff pass you his business, Amazon.com, you are left with the most amount of resource, best talented people, best logistics in the world, can you confidently say that you will not squander that in one year? Do you have a basic plan of what to do?
 
 This is why we don't let AI to do everything in one go. Among many other reasons, it takes away your autonomy. When your magic pill stopped working, can you know what went wrong? When you business go underwater, do you know where is the boat leaking? In terms of coding, do you know what went wrong and can you fix it?
+
+Think about Iron Man. Many of us like watching Iron Man. We like that character, not just the suit. The suit is powerful and almighty, just like our AI. But think about it, what are you, without the suit.
 
 So the goal is not to let AI do everything for you. The goal is to use it well: to support your work, speed up your process, and help you think more clearly while still keeping your own judgment at the center. 
