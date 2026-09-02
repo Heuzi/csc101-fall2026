@@ -39,7 +39,7 @@
 
 - [Typing](https://typing.com) 
 
-- Complete (at least) parts 1 & 2 of [Learning Git and GitHub](https://www.linkedin.com/learning/learning-git-and-github-23011330) [1h 45m].
+- OS tips&tricks: [[Mac 1](https://www.linkedin.com/learning/macos-quick-tips) + [2](https://www.youtube.com/watch?v=IIBnh74b474)] [[Windows](https://www.linkedin.com/learning/windows-tips-and-tricks)] [2hr]
 
 
 ## References and Links
