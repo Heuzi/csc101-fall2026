@@ -14,11 +14,23 @@ AI must be used with particular caution in high-risk, high-stakes environments, 
 
 Most of these settings are difficult to recreate in a classroom because we are not pilots, power-grid managers, doctors, bankers, admissions officers, or hiring managers. Financial decision-making, however, gives us an accessible way to examine many of the same questions about risk, trust, evidence, uncertainty, and human responsibility. We will therefore use a **simulated** trading environment to explore high-stakes AI decision-making without risking real money or private financial information.
 
-In this challenge, you will use an AI assistant to help generate simulated stock-trading recommendations. Then you will place simulated trades in a trading simulator and keep your own personal notes about your reasoning, decisions, and reflections.
+In this challenge, you will use an AI assistant to help generate simulated stock-trading recommendations. Then you will place simulated trades in a trading simulator and reflect on your reasoning, decisions, and results. Personal notes can help, but a journal is optional.
 
 The goal is **not** to become a stock trader.
 
 The goal is to learn how AI can help with decision-making, why AI can be risky, and why humans must still check, question, and take responsibility for AI-generated recommendations.
+
+---
+
+## College-Wide Invitation
+
+We invite everyone in the college community to participate in this AI Trading Agent Simulation. No trading or programming experience is required. Use an AI assistant, make simulated trading decisions, and document what you learn about evidence, uncertainty, and human responsibility.
+
+You are welcome to participate casually without submitting anything. **To be considered for a reward, submit your simulator trading records and a reflection report.** A personal trade journal is optional and does not need to be submitted. Selected submissions will be shared, with permission, in our final discussion to help us compare results and learn from one another's decisions.
+
+College-wide participation is voluntary. CSC 101 students should continue to follow their course requirements and Canvas submission instructions. For participants outside CSC 101, references to the instructor mean the activity organizer, and the grading rubric serves as a guide to a strong submission.
+
+The organizer will announce the simulator setup, participation dates, submission deadline, reward details, and final discussion details. Submission is required for reward consideration but does not guarantee a reward.
 
 ---
 
@@ -41,24 +53,24 @@ Do not enter:
 - Personal investment account information
 - Your family’s private financial information
 
-You are not receiving financial advice in this assignment. Your grade is based on your workflow, notes, reasoning, and reflection — not on whether your simulated trades make money.
+You are not receiving financial advice in this assignment. Your grade is based on your workflow, reasoning, and reflection — not on whether your simulated trades make money.
 
 ---
 
 ## What You Will Use
 
-You must use **both** of the following:
+You will use:
 
 1. **A trading simulation platform**
-2. **Your own personal notes / trade journal**
+2. **Your own personal notes / trade journal (optional)**
 
 The simulator records simulated trades and portfolio performance.
 
-Your personal notes record your thinking, your AI prompt, your reasoning, your doubts, and your reflection. The personal notes are required because the simulator alone does not fully explain why you made each decision.
+Optional personal notes can record your thinking, your AI prompt, your reasoning, your doubts, and your reflection. The simulator alone does not fully explain why you made each decision, so explain your reasoning in your reflection report if you submit one.
 
-You must keep your own notes outside the simulator.
+If useful, keep your own notes outside the simulator to help you remember your decisions.
 
-Download and use the [AIT personal trade journal Excel template](./ait_trade_journal.xlsx).
+You may use the [AIT personal trade journal Excel template](./ait_trade_journal.xlsx).
 
 ---
 
@@ -92,7 +104,7 @@ Unless your instructor says otherwise, follow these rules:
 - Do not trade options or short sell unless you know what they are.
 - Do not use cryptocurrency.
 - Make 10-20 simulated trades total.
-- Keep notes for every trade.
+- Consider keeping notes for each trade to support your reflection; a journal is optional.
 
 These limits are here because the assignment is about AI literacy, not gambling or high-risk speculation.
 
@@ -194,7 +206,7 @@ For each recommendation, you can record:
 
 You do not have to follow the AI. Decide whether to **buy, sell, hold, or do nothing**.
 
-Start a new row in your trade journal and record:
+Consider the following before deciding. If you use the optional journal, record them in a new row:
 
 - The date/time and ticker
 - The AI recommendation
@@ -209,13 +221,13 @@ Start a new row in your trade journal and record:
 
 If you decide to buy or sell, place the simulated trade in the trading simulator. If you decide to hold or do nothing, do not place a trade.
 
-Record your action in the **Buy/Sell** column of the same journal row.
+If you use the optional journal, record your action in the **Buy/Sell** column of the same row.
 
 ---
 
 ## Step 6: Track the Outcome
 
-Return to your journal after **one week** and again after **two weeks**.
+Review your decisions after **one week** and again after **two weeks**. If you use the optional journal:
 
 - Record the payout or gain/loss for a simulated trade.
 - Update the one-week and two-week outcome columns, even if you chose not to buy or sell.
@@ -261,7 +273,18 @@ For each AI recommendation, answer these questions:
 
 ## Final Submission
 
-Submit a **two-page AI Trading Agent Reflection Report** using the following format:
+Casual college-wide participants do not need to submit anything. **To be considered for a reward, submit these two items:**
+
+1. **Simulator trading records:** Export your simulated transaction history, or provide readable screenshots if an export is unavailable. Include trade dates, tickers, buy/sell actions, quantities, and executed prices, plus a portfolio summary showing the starting balance, ending value, and simulation dates so the results have context.
+2. **Reflection report:** Submit the two-page report described below. Explain your AI recommendations, decisions, reasoning, and outcomes, including decisions to hold or do nothing. The simulator records are a separate attachment and do not count toward the report's two-page limit. No personal journal is required.
+
+**College-wide submission point:** [Submit your trading records and reflection report through Microsoft Forms](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=LIlV2uSs2EWyZmlVWV-HFCPq3-leMVhEo93btnXqcJtUNkxMSVlVQ0M5VlQxNkNNSEVLUlpGSTVQNy4u). The submission deadline will be announced. CSC 101 students should follow Canvas instructions for their graded submission.
+
+The submission form will request your name, college email address, the two items above, and your sharing preference: **share with my name**, **share without my name**, or **do not share in the final discussion**. Remove account identifiers and unrelated personal information from submitted files. Only submissions with permission to share will be considered for presentation.
+
+### Reflection Report Format
+
+Write a **two-page AI Trading Agent Reflection Report** using the following format:
 
 - **Page size:** US Letter (8.5 × 11 inches)
 - **Font:** 12-point Times New Roman
@@ -304,9 +327,9 @@ For example:
 
 ---
 
-### 3. My Personal Trade Notes
+### 3. My Trading Decisions and Reasoning
 
-Summarize what you recorded in your own notes.
+Explain the thinking behind your decisions. You may draw on personal notes if you kept them, but a journal is not required.
 
 For example, explain:
 
@@ -365,7 +388,21 @@ Answer this question:
 
 > After this activity, would you trust an AI agent to make financial decisions for you? Why or why not?
 
-Your answer should be thoughtful and specific. Use examples from your own simulated trades and notes.
+Your answer should be thoughtful and specific. Use examples from your own simulated trades and decisions.
+
+---
+
+## Selection for the Final Discussion
+
+We will review the trading records and reflection report together and select the strongest submissions for our final discussion, with permission to share. We will consider:
+
+- **Clear records:** Complete, readable simulator results explained in the reflection report.
+- **Thoughtful decisions:** Specific explanations of why you followed, questioned, or rejected the AI's recommendations.
+- **Evidence checking:** Examples of verifying claims, identifying missing information, and noticing uncertainty or risk.
+- **Honest reflection:** What worked, what failed, and what you would change next time.
+- **Discussion value:** Examples that help the college community understand the strengths and limitations of AI-assisted decision-making.
+
+Simulated performance is part of the story, but the highest return alone does not make the strongest submission. A losing trade with careful reasoning and an insightful reflection can be especially useful for discussion. When comparing results, we will consider the simulation dates, starting balance, and trading rules.
 
 ---
 
@@ -375,7 +412,7 @@ Your answer should be thoughtful and specific. Use examples from your own simula
 |---|---:|
 | Clear AI prompt or AI-agent workflow | 20 |
 | Complete simulator activity (at least 10 trades) | 15 |
-| Complete personal trade notes / journal | 20 |
+| Clear explanation of trading decisions in the reflection report | 20 |
 | Evidence checking and reasoning | 15 |
 | AI risk audit | 20 |
 | Final reflection on human responsibility | 10 |
@@ -388,7 +425,7 @@ Your answer should be thoughtful and specific. Use examples from your own simula
 A strong submission:
 
 - Uses the AI assistant in a structured way
-- Keeps clear personal notes
+- Clearly explains trading decisions in the reflection report
 - Uses the simulator correctly
 - Explains the reasoning behind each trade
 - Identifies risks and uncertainty
@@ -402,7 +439,7 @@ A strong submission:
 A weak submission:
 
 - Only reports whether money was gained or lost
-- Does not keep personal notes
+- Does not explain the thinking behind trading decisions
 - Does not explain the AI prompt
 - Blindly follows the AI
 - Ignores risks
