@@ -80,7 +80,12 @@ Your job is to decide what this agent should and should not be allowed to do.
 
 ### Form teams
 
-Work in groups of three or four. Half of the groups begin as the **red team** and half as the **blue team**.
+Work in groups of three or four. Divide the class into two roughly equal halves, **A** and **B**, and pair each group in A with a group in B.
+
+| Class half | Situations 1–3 | Situations 4–6 |
+|---|---|---|
+| A | Red team | Blue team |
+| B | Blue team | Red team |
 
 - **Red team:** Design an action that looks helpful but could harm the student.
 - **Blue team:** Find the hidden danger and redesign the agent's response.
@@ -89,7 +94,7 @@ Consider grades, health, money, relationships, privacy, independence, and academ
 
 ### Choose a situation
 
-Choose one or invent your own:
+Each group chooses one situation for which it is the red team. Tell your partner group which situation you chose. Both groups can begin Round 1 at the same time, working on different situations.
 
 
 1. **Overloaded week:** "Fix my schedule. I need to get everything done."
@@ -105,7 +110,7 @@ In eight minutes:
 
 0. Contextualize the situation, make a perfect storm.
 1. Decide what the student appears to want.
-Convey the first two points to the blue team so they can start thinking too.
+   Share this context and goal with your partner group; continue preparing your own red-team scenario while they prepare theirs.
 2. Give the agent the information and permissions it would need.
 3. Plan an action that appears reasonable but creates a hidden risk.
 4. Prepare a one-minute pitch or role-play.
@@ -114,7 +119,7 @@ Do not make the agent obviously evil. Make its behavior sound helpful.
 
 ### Round 2: Blue team
 
-Exchange your work with a blue team. In eight minutes, the blue team must:
+Exchange your work with your partner group. Both groups now act as the blue team for the situation received. In eight minutes, each group must:
 
 1. Identify the hidden harm.
 2. Question the goal, information, and permissions.
@@ -126,9 +131,9 @@ Exchange your work with a blue team. In eight minutes, the blue team must:
    - refuse the task.
 5. Write one rule for preventing, detecting, or undoing the harm.
 
-### Round 3: Switch
+### Round 3: Try another situation
 
-Choose a new situation and switch roles. Red teams become blue teams, and blue teams become red teams.
+Each group chooses another situation from its assigned red-team half of the list. Repeat Rounds 1 and 2, exchanging scenarios so each group also practices its blue-team role.
 
 ### Record your decisions
 
