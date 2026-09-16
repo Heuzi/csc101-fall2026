@@ -30,7 +30,7 @@ You are welcome to participate casually without submitting anything. **To be con
 
 College-wide participation is voluntary. CSC 101 students should continue to follow their course requirements and Canvas submission instructions. For participants outside CSC 101, references to the instructor mean the activity organizer, and the grading rubric serves as a guide to a strong submission.
 
-The organizer will announce the simulator setup, participation dates, submission deadline, reward details, and final discussion details. Submission is required for reward consideration but does not guarantee a reward.
+See the simulator setup below to find the game. The organizer will announce participation dates, the submission deadline, reward details, and final discussion details. Submission is required for reward consideration but does not guarantee a reward.
 
 ---
 
@@ -76,11 +76,11 @@ You may use the [AIT personal trade journal Excel template](./ait_trade_journal.
 
 ## Recommended Simulator
 
-Use the simulator assigned by your instructor.
+Use **Investopedia Simulator** and join our game:
 
-The recommended option is:
-
-- **Investopedia Simulator**
+1. Open **Join a Game** and use **Game Lookup**.
+2. Search for the creator **heuzi**, or search for the game room **AI Trading Agent Simulation**.
+3. Find **AI Trading Agent Simulation** by **heuzi** and select **GO TO GAME**.
 
 Your instructor may provide:
 

@@ -1,6 +1,6 @@
 # CSC 101 Fall 2026 Handoff
 
-Status date: 2026-09-14
+Status date: 2026-09-16
 
 ## Current State
 
@@ -50,7 +50,8 @@ Status date: 2026-09-14
 
 - [x] Add a college-wide invitation and submission plan to `challenge_ai_trading.md`: casual participation requires no submission; reward consideration requires simulator records and a two-page reflection. A personal journal is optional and is not a required submission. Include sharing preferences and selection criteria for the final discussion.
 - [x] Add the organizer-provided Microsoft Forms submission link to `challenge_ai_trading.md`.
-- [ ] Finalize the college-wide AIT deadline, reward details, simulator setup, participation dates, and final discussion details. Course deadlines and graded submissions remain governed by Canvas.
+- [x] Add the Investopedia Simulator game lookup instructions: search for creator `heuzi` or game room `AI Trading Agent Simulation`, then select `GO TO GAME` for the matching game by `heuzi`.
+- [ ] Finalize the college-wide AIT deadline, reward details, participation dates, and final discussion details, plus any additional simulator settings. Course deadlines and graded submissions remain governed by Canvas.
 - [x] Add the Vibe Coding Project Share to the October 14 README and syllabus schedule.
 - [ ] Flesh out Impostor Hunt and Impostor Hunt Reflection rows in `readme.md`.
 - [x] Clarify the late-semester AI sequence:
