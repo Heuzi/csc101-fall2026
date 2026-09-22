@@ -26,7 +26,7 @@ The goal is to learn how AI can help with decision-making, why AI can be risky, 
 
 We invite everyone in the college community to participate in this AI Trading Agent Simulation. No trading or programming experience is required. Use an AI assistant, make simulated trading decisions, and document what you learn about evidence, uncertainty, and human responsibility.
 
-You are welcome to participate casually without submitting anything. **To be considered for a reward, submit your simulator trading records and a reflection report.** A personal trade journal is optional and does not need to be submitted. Selected submissions will be shared, with permission, in our final discussion to help us compare results and learn from one another's decisions.
+You are welcome to participate casually without submitting anything. A personal trade journal is optional and does not need to be submitted. Although a better outcome is expected from the process of reflection and careful self studying. Selected submissions will be shared in our final discussion to help us compare results and learn from one another's decisions. So please only submit whatever you are willing to share.
 
 College-wide participation is voluntary. CSC 101 students should continue to follow their course requirements and Canvas submission instructions. For participants outside CSC 101, references to the instructor mean the activity organizer, and the grading rubric serves as a guide to a strong submission.
 
@@ -99,7 +99,7 @@ Unless your instructor says otherwise, follow these rules:
 - Make 10-20 simulated trades total.
 - Consider keeping notes for each trade to support your reflection; a journal is optional.
 
-These limits are here because the assignment is about AI literacy, not gambling or high-risk speculation.
+These limits are here because the assignment is about AI literacy and partially about investment literacy, not gambling or high-risk speculation.
 
 ---
 
@@ -154,10 +154,6 @@ Clearly separate facts from predictions.
 
 ## Step 2: Choose a Stock or ETF
 
-Choose from the ticker list provided by your instructor.
-
-If your instructor does not provide a list, ask before choosing your own.
-
 Possible example tickers might include:
 
 - AAPL
@@ -173,7 +169,7 @@ Possible example tickers might include:
 - SPY
 - QQQ
 
-Your instructor may change this list.
+Your instructor may change this list. You may also choose your own if you have investment knowledge or want to venture a bit.
 
 ---
 
@@ -277,7 +273,7 @@ The submission form will request your name, college email address, the two items
 
 ### Reflection Report Format
 
-Write a **two-page AI Trading Agent Reflection Report** using the following format:
+Write a **three-page AI Trading Agent Reflection Report** using the following format:
 
 - **Page size:** US Letter (8.5 × 11 inches)
 - **Font:** 12-point Times New Roman
