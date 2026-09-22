@@ -82,16 +82,9 @@ Use **Investopedia Simulator** and join our game:
 2. Search for the creator **heuzi**, or search for the game room **AI Trading Agent Simulation**.
 3. Find **AI Trading Agent Simulation** by **heuzi** and select **GO TO GAME**.
 
-Your instructor may provide:
+You may join our kick-start session for information.
 
-- A class game name
-- A password
-- A starting balance
-- A list of allowed stocks or ETFs
-- A start date and end date
-- Restrictions on what kinds of trades are allowed
-
-Follow your instructor’s setup instructions.
+You may also join our [class discord](https://discord.gg/FWYMGvupSG) to ask clarification questions and discuss your wins/losses.
 
 ---
 
