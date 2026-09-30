@@ -11,7 +11,7 @@
 
 - Complete LinkedIn Learning: [Learning Excel Desktop (1h 31m)](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024)
 
-- [WTQ] [Write the Question - Linux/CLI](challenge_linux-ques.md)
+<!-- - [WTQ] [Write the Question - Linux/CLI](challenge_linux-ques.md) -->
 
 - **[LSH]** Complete the [Linux Scavenger Hunt](https://github.com/pushingice/scavenger-hunt). Keep track of your **secret number** and the numbers of all the clues you find. You will need to submit these on Canvas to receive credit.
 
