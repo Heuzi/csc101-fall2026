@@ -20,10 +20,10 @@ CSC 101 is the preferred destination for incoming first semester declared CS maj
 | 6       |  Sep 30 | [Linux; Command-line interface](class_linux_cli.md) (TODO) | - [Linux Command Line (intro, part 1+2+3)](https://www.linkedin.com/learning/learning-linux-command-line-14447912) [1hr 49m] <br>- Typing |  - [Linux Scavenger Hunt](https://github.com/pushingice/scavenger-hunt) [LSH] (TODO)|
 | 7       |  Oct 7  | [Productivity: Excel, Kanban, VS Code](./class_productivity.md) (TODO)       | - [Learning Excel Desktop (1h 31m)](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024) <br>- Typing | [Student grade book worksheet formulas [XGB]](xgb/challenge_xgb.md) (TODO) |
 | 8       |  Oct 14 | [Vibe Coding Project Share](./class_vibe_coding.md) (TODO) | - [Linux Command Line (part 4+5, conclusion)](https://www.linkedin.com/learning/learning-linux-command-line-14447912) [1hr 5m] <br>- Submit the Vibe Coding Project Share in Canvas <br>- Typing | [File forensics [EXT]](ext/challenge_ext.md) (TODO) |
-| 9       |  Oct 21 | Activity 1: Trading with AI [AIT] reflection (TODO) | Submit trading log and reflection (TODO) |  AI Cheating and Imposter Hunt Preparation|
+| 9       |  Oct 21 | [Activity 2: AI Cheating and Impostor Hunt](./challenge_impostor_hunt.md) (open to public) (TODO) | Submit homework question(s) and both answers in Canvas; participate in the Impostor Hunt activity (TODO) |  |
 | 10      |  Oct 28 | [Quadtrees](./class_quadtrees.md) (TODO)          | - [Developer Career Paths and Certifications](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2?u=2300338) [48m] <br>- Typing |    [Quadtree decoding [QDT]](qdt/challenge_qdt.md) (TODO) |
 | 11      |  Nov 4  | [L-systems; Formal grammars](./class_lsystems.md) (TODO)      | - Typing | [Grammars & L-system design [LSY]](lsy/challenge_lsy.md) (TODO) |
-| 12      |  Nov 11 | Activity 2: AI Cheating and Impostor Hunt (open to public) (TODO) | Participate in the Impostor Hunt activity (TODO) |  |
+| 12      |  Nov 11 | Activity 1: Trading with AI [AIT] reflection (TODO) | Submit trading log and reflection (TODO) |  AI Cheating and Imposter Hunt Preparation|
 | 13      |  Nov 18 | Activity 2: Impostor Hunt Reflection (TODO) | Submit reflection (TODO) |  |
 | -       |  Nov 25 | Thanksgiving Holiday — no class (TODO) |  |  |
 | 14      |  Dec 2  | Conclusion; Portfolio; Trajectory Outlook (TODO)     |  |  |

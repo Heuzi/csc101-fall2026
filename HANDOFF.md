@@ -53,11 +53,14 @@ Status date: 2026-09-16
 - [x] Add the Investopedia Simulator game lookup instructions: search for creator `heuzi` or game room `AI Trading Agent Simulation`, then select `GO TO GAME` for the matching game by `heuzi`.
 - [ ] Finalize the college-wide AIT deadline, reward details, participation dates, and final discussion details, plus any additional simulator settings. Course deadlines and graded submissions remain governed by Canvas.
 - [x] Add the Vibe Coding Project Share to the October 14 README and syllabus schedule.
-- [ ] Flesh out Impostor Hunt and Impostor Hunt Reflection rows in `readme.md`.
+- [x] Create `challenge_impostor_hunt.md` and link it from the October 21 README schedule: completed written homework, an own-work answer with less than 20% AI assistance, an impostor with more than 80% AI authorship, Canvas submission with a private key, and in-class voting.
+  - Correct judges earn one judging point; authors earn one bonus point for each judge they fool. With N students judging every other pair, the passing threshold is half of the N - 1 available judging points, rounded up. Add fooling bonuses to the judging score without increasing that threshold.
+- [ ] Flesh out the separately scheduled Impostor Hunt Reflection requirements.
 - [x] Clarify the late-semester AI sequence:
   - Agentic AI lesson
-  - Activity 1: AI Trading log and reflection
-  - Activity 2: AI Cheating/Impostor Hunt and reflection
+  - October 21: Activity 2: AI Cheating/Impostor Hunt
+  - November 11: Activity 1: AI Trading log and reflection
+  - November 18: Activity 2: Impostor Hunt reflection
 - [ ] Review assignment/challenge labels for consistency: `[GHP]`, `[SAT]`, `[LSH]`, `[WTQ]`, `[XGB]`, `[EXT]`, `[QDT]`, and `[LSY]`; `[AIT]` is now Activity 1 rather than a Weekly Challenge.
 - [ ] Check whether every README challenge has a corresponding complete challenge file.
 - [ ] Decide whether `class_graph_algorithms.md` should be updated, archived, or linked from the schedule.
