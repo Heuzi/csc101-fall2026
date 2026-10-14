@@ -54,6 +54,7 @@ Status date: 2026-09-16
 - [ ] Finalize the college-wide AIT deadline, reward details, participation dates, and final discussion details, plus any additional simulator settings. Course deadlines and graded submissions remain governed by Canvas.
 - [x] Add the Vibe Coding Project Share to the October 14 README and syllabus schedule.
 - [x] Create `challenge_impostor_hunt.md` and link it from the October 21 README schedule: completed written homework, an own-work answer with less than 20% AI assistance, an impostor with more than 80% AI authorship, Canvas submission with a private key, and in-class voting.
+  - Each answer must contain at least 150 words, excluding the question, headings, and references.
   - Correct judges earn one judging point; authors earn one bonus point for each judge they fool. With N students judging every other pair, the passing threshold is half of the N - 1 available judging points, rounded up. Add fooling bonuses to the judging score without increasing that threshold.
 - [ ] Flesh out the separately scheduled Impostor Hunt Reflection requirements.
 - [x] Clarify the late-semester AI sequence:

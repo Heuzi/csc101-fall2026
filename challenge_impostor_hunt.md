@@ -10,6 +10,8 @@ Include the original question(s) and enough assignment context for a judge to un
 
 ## 2. Prepare two answers
 
+**Each answer must contain at least 150 words**, excluding the question, headings, and references. Choose completed homework with enough written material to meet this minimum so judges have enough writing to compare.
+
 | Version | Requirements |
 |---|---|
 | **Your own answer** | Use your genuinely completed work. AI assistance must be **less than 20%** and limited to grammar correction or sentence flow. For example, write the entire answer yourself first, then use AI only for light editing. The ideas, reasoning, and substantive writing must be yours. |
@@ -26,8 +28,8 @@ Label the versions **Answer A** and **Answer B**, choosing which comes first. Us
 Submit the following by the deadline posted in Canvas:
 
 1. The homework question(s), with any instructions or context needed to understand them.
-2. Answer A.
-3. Answer B.
+2. Answer A, at least 150 words.
+3. Answer B, at least 150 words.
 4. A **private answer key for the instructor** identifying which answer is your own and which is the impostor, with a brief description of how AI was used for each.
 
 Only the question(s) and the A/B answers should be shown to judges. Submit the answer key through an instructor-only Canvas submission so classmates cannot see it before voting.
