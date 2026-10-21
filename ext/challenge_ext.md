@@ -19,7 +19,7 @@ mkdir ~/ext-activity
 
 cd ~/ext-activity
 
-curl -O https://raw.githubusercontent.com/nadeemabdulhamid/csc101-repo-fall2024/refs/heads/main/ext/crunchtarzg
+curl -O https://raw.githubusercontent.com/Heuzi/csc101-fall2026/refs/heads/main/ext/crunchtarzg
 
 ...
 ```
