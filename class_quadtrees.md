@@ -3,18 +3,24 @@
 
 ## In-class
 
-- PPM image file format: https://en.wikipedia.org/wiki/Netpbm
+- PBM image file format (black and white): https://netpbm.sourceforge.net/doc/pbm.html
     - [Demo sheet](./qdt/demo-sheet-32x32.xlsx)
     - [Demo PBM](./qdt/demo-32x32.pbm)
 
 - Process: 
-    - Edit ppm format in excel; 
-    - Copy and save to .ppm file in visual studio;
+    - Edit pixel values in Excel: `0` = white, `1` = black;
+    - Copy the PBM header and pixel grid into a plain text file with a `.pbm` extension;
     - View at: **NetPBM Viewer**: https://kylepaulsen.com/stuff/NetpbmViewer/
 
 - Quadtrees
     - [Cat](./qdt/nto-fig.47.1.jpg)
     - [*New Turing Omnibus*, chapter 47 (pg. 315-320)](./qdt/nto-ch47-quadtrees.pdf)
+
+- Seven-student mystery image activity
+    - [Shared workbook starter: 16 x 16](./outputs/quadtree-7-students/quadtree-student-shared.xlsx)
+    - Each student decodes two 4 x 4 blocks; blocks A and F are prefilled examples.
+    - The workbook includes a live black-and-white preview and the block encodings.
+    - Use the instructor-provided shared editing link during class. Export only `Pixel Grid!A1:P20` for this workbook.
 
 
 
@@ -30,4 +36,4 @@
 
 - Another [PPM image viewer - in browser](https://0xc0de.fr/webppm/)
 - [PPM converter](https://convertio.co/ppm-converter/)
-- [PPM file format reference](https://netpbm.sourceforge.net/doc/pbm.html)
+- [PBM file format reference](https://netpbm.sourceforge.net/doc/pbm.html)

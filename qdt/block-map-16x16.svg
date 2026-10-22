@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="535" viewBox="0 0 500 535">
+<rect width="500" height="535" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#1F2937">
+<text x="30" y="32" font-size="21" font-weight="bold">16 x 16 image: block locations</text>
+<rect x="30" y="55" width="110" height="110" fill="#E7E7E7" stroke="white"/>
+<text x="85" y="103" font-size="30" font-weight="bold" text-anchor="middle">F</text>
+<text x="85" y="132" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="140" y="55" width="110" height="110" fill="#E8D9F2" stroke="white"/>
+<text x="195" y="103" font-size="30" font-weight="bold" text-anchor="middle">E</text>
+<text x="195" y="132" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="250" y="55" width="110" height="110" fill="#FFF0AE" stroke="white"/>
+<text x="305" y="103" font-size="30" font-weight="bold" text-anchor="middle">B</text>
+<text x="305" y="132" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="360" y="55" width="110" height="110" fill="#E7E7E7" stroke="white"/>
+<text x="415" y="103" font-size="30" font-weight="bold" text-anchor="middle">A</text>
+<text x="415" y="132" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="30" y="165" width="110" height="110" fill="#F9DFC6" stroke="white"/>
+<text x="85" y="213" font-size="30" font-weight="bold" text-anchor="middle">G</text>
+<text x="85" y="242" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="140" y="165" width="110" height="110" fill="#FAD7D4" stroke="white"/>
+<text x="195" y="213" font-size="30" font-weight="bold" text-anchor="middle">H</text>
+<text x="195" y="242" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="250" y="165" width="110" height="110" fill="#D8EAC9" stroke="white"/>
+<text x="305" y="213" font-size="30" font-weight="bold" text-anchor="middle">C</text>
+<text x="305" y="242" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="360" y="165" width="110" height="110" fill="#D5E5F7" stroke="white"/>
+<text x="415" y="213" font-size="30" font-weight="bold" text-anchor="middle">D</text>
+<text x="415" y="242" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="30" y="275" width="110" height="110" fill="#CDECE7" stroke="white"/>
+<text x="85" y="323" font-size="30" font-weight="bold" text-anchor="middle">J</text>
+<text x="85" y="352" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="140" y="275" width="110" height="110" fill="#D5E5F7" stroke="white"/>
+<text x="195" y="323" font-size="30" font-weight="bold" text-anchor="middle">I</text>
+<text x="195" y="352" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="250" y="275" width="110" height="110" fill="#FFF0AE" stroke="white"/>
+<text x="305" y="323" font-size="30" font-weight="bold" text-anchor="middle">N</text>
+<text x="305" y="352" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="360" y="275" width="110" height="110" fill="#F9DFC6" stroke="white"/>
+<text x="415" y="323" font-size="30" font-weight="bold" text-anchor="middle">M</text>
+<text x="415" y="352" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="30" y="385" width="110" height="110" fill="#CDECE7" stroke="white"/>
+<text x="85" y="433" font-size="30" font-weight="bold" text-anchor="middle">K</text>
+<text x="85" y="462" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="140" y="385" width="110" height="110" fill="#FAD7D4" stroke="white"/>
+<text x="195" y="433" font-size="30" font-weight="bold" text-anchor="middle">L</text>
+<text x="195" y="462" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="250" y="385" width="110" height="110" fill="#D8EAC9" stroke="white"/>
+<text x="305" y="433" font-size="30" font-weight="bold" text-anchor="middle">O</text>
+<text x="305" y="462" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="360" y="385" width="110" height="110" fill="#E8D9F2" stroke="white"/>
+<text x="415" y="433" font-size="30" font-weight="bold" text-anchor="middle">P</text>
+<text x="415" y="462" font-size="15" text-anchor="middle">4 x 4</text>
+<rect x="30" y="55" width="440" height="440" fill="none" stroke="#64748B" stroke-width="2"/>
+<path d="M250 55V495 M30 275H470" stroke="#64748B" stroke-width="3"/>
+<text x="30" y="520" font-size="14">A and F are prefilled instructor examples.</text>
+</g></svg>
