@@ -1,5 +1,15 @@
 # L-systems; Formal grammars
 
+## Grammar basics
+
+- **Grammar:** a set of rules for building strings of symbols.
+- **Symbol and string:** a symbol is one item, such as `A` or `B`. A string is an ordered sequence of symbols, such as `AAB`.
+- **Start symbol (axiom):** the symbol or string we begin with. `Axiom: S` means start with `S`.
+- **Replacement rule (production):** a rule tells us what a symbol can become. `T = AT` means we may replace a `T` with `AT`. Here, `=` means "can be replaced by," rather than mathematical equality.
+- **Terminal and nonterminal:** a terminal stays in the finished string; a nonterminal is a placeholder we replace while building it. In the examples that start with `S`, `A` and `B` are terminals, while `S` and `T` are nonterminals.
+- **Empty string (`ε`):** a string with no symbols. A blank right-hand side, such as `T =`, means replace `T` with nothing.
+- **Alternative rules:** commas separate choices. `T = AT,BT,` means replace `T` with `AT`, `BT`, or the empty string. Choose one alternative each time you replace a `T`.
+
 ## In-class
 
 - Grammars
