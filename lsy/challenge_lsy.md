@@ -93,13 +93,14 @@ Design two L-systems that can be rendered using the tool at: https://piratefsh.g
 
 ## Part 3 - The Famous MU Puzzle
 
-The MU puzzle is a classic example of a formal system and a simple proof puzzle. It starts with the string `MI` and allows only these transformations:
+The MU puzzle, introduced in Douglas Hofstadter's *Gödel, Escher, Bach*, is a classic example of a formal system and a simple proof puzzle. It starts with the string `MI` and allows only these four transformations:
 
-- add a `U` to the end of a string that already contains an `I`
-- duplicate the string
-- replace `MI` with `MUI`
-- replace `III` with `U`
-- replace `UU` with nothing
+- If a string ends in `I`, add a `U` to the end.
+- If a string starts with `M`, duplicate the entire portion after the initial `M`: `Mx → Mxx`, where `x` stands for that portion. For example, `MIU → MIUIU`.
+- Replace one occurrence of three consecutive `I`s (`III`) with a single `U`.
+- Delete one occurrence of two consecutive `U`s (`UU`).
+
+Apply one rule at a time. The rules work only in the stated direction; you may not reverse them.
 
 Your task is to explore the puzzle and answer the following:
 
