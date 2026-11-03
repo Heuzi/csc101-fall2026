@@ -24,7 +24,7 @@ CSC 101 is the preferred destination for incoming first semester declared CS maj
 | 10      |  Oct 28 | [Quadtrees](./class_quadtrees.md) (TODO)          | - [Developer Career Paths and Certifications](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2?u=2300338) [48m] <br>- Typing |    [Quadtree decoding [QDT]](qdt/challenge_qdt.md) (TODO) |
 | 11      |  Nov 4  | [L-systems; Formal grammars](./class_lsystems.md) (TODO)      | - Typing | [Grammars & L-system design [LSY]](lsy/challenge_lsy.md) (TODO) |
 | 12      |  Nov 11 | Activity 1: Trading with AI [AIT] reflection (TODO) | Submit trading log and reflection (TODO) |  |
-| 13      |  Nov 18 | TODO | TODO |  |
+| 13      |  Nov 18 | [Build Your Own Offline AI Chatbot](./class_offline_ai_chatbot.md) (TODO) | Prepare Python and install the linked classwork requirements before class |  |
 | -       |  Nov 25 | Thanksgiving Holiday — no class (TODO) |  |  |
 | 14      |  Dec 2  | Conclusion; Portfolio; Trajectory Outlook (TODO)     |  |  |
 | -       |  Dec 9  | Final examination, 11:00 am–1:00 pm (TODO) |  |  |

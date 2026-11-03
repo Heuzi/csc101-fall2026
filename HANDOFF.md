@@ -1,12 +1,13 @@
 # CSC 101 Fall 2026 Handoff
 
-Status date: 2026-09-16
+Status date: 2026-11-03
 
 ## Current State
 
 - Repo is on `main` and was clean when this handoff was created.
 - Course repo has moved from numbered class files to topic-named class files, such as `class_welcome_setup.md`, `class_vibe_coding.md`, and `class_agentic_ai_danger.md`.
 - README schedule is present and mostly populated for the Fall 2026 Wednesday course arc.
+- Class 13 / November 18 is **Build Your Own Offline AI Chatbot**: `class_offline_ai_chatbot.md` and the commented `offline_chatbot/offline_chatbot.py` use Qwen3-0.6B directly through Transformers. Students install dependencies beforehand, then review code, download/load weights, and test offline in class. The README and syllabus replace the previous November 18 reflection topic.
 - Strongest current materials: `class_vibe_coding.md`, `class_agentic_ai_danger.md`, and `challenge_ai_trading.md`.
 - Stubbier materials that need another pass: `class_graph_algorithms.md` and the late-semester Impostor/AI reflection items in `readme.md`.
 
@@ -56,12 +57,12 @@ Status date: 2026-09-16
 - [x] Create `challenge_impostor_hunt.md` and link it from the October 21 README schedule: completed written homework, an own-work answer with less than 20% AI assistance, an impostor with more than 80% AI authorship, Canvas submission with a private key, and in-class voting.
   - Each answer must contain at least 150 words, excluding the question, headings, and references.
   - Correct judges earn one judging point; authors earn one bonus point for each judge they fool. With N students judging every other pair, the passing threshold is half of the N - 1 available judging points, rounded up. Add fooling bonuses to the judging score without increasing that threshold.
-- [ ] Flesh out the separately scheduled Impostor Hunt Reflection requirements.
+- [x] Replace the November 18 standalone Impostor Hunt reflection session with the offline AI chatbot classwork; no new grading policy or separate submission is added.
 - [x] Clarify the late-semester AI sequence:
   - Agentic AI lesson
   - October 21: Activity 2: AI Cheating/Impostor Hunt
   - November 11: Activity 1: AI Trading log and reflection
-  - November 18: Activity 2: Impostor Hunt reflection
+  - November 18: Build Your Own Offline AI Chatbot
 - [ ] Review assignment/challenge labels for consistency: `[GHP]`, `[SAT]`, `[LSH]`, `[WTQ]`, `[XGB]`, `[EXT]`, `[QDT]`, and `[LSY]`; `[AIT]` is now Activity 1 rather than a Weekly Challenge.
 - [ ] Check whether every README challenge has a corresponding complete challenge file.
 - [ ] Decide whether `class_graph_algorithms.md` should be updated, archived, or linked from the schedule.

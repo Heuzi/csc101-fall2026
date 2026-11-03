@@ -1,0 +1,5 @@
+# PyTorch runs the neural network; Transformers supplies Qwen3's model code.
+torch==2.8.0
+transformers==4.57.6
+# Hugging Face Hub downloads the weights and tokenizer during --download.
+huggingface-hub==0.36.0

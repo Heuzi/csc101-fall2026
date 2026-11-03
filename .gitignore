@@ -1,1 +1,7 @@
 .DS_Store
+
+# Local chatbot dependencies and downloaded model weights stay on each laptop.
+/.venv/
+/offline_chatbot/.venv/
+/offline_chatbot/models/
+/offline_chatbot/__pycache__/
