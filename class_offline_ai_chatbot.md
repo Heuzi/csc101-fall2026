@@ -19,13 +19,30 @@ Open that folder in VS Code, then choose **Terminal > New Terminal**. Install th
 
 **Windows / PowerShell:**
 
+First, check whether Python 3.12 is installed:
+
+```powershell
+py -3.12 --version
+```
+
+If it reports **Python 3.12.x**, continue to the setup commands below. If Python 3.12 is missing, you can install it **alongside your newer Python** without uninstalling that version or removing its packages:
+
+1. Open the [Python 3.12.10 release page](https://www.python.org/downloads/release/python-31210/) and download **Windows installer (64-bit)**.
+2. Run the installer. Keep `pip` enabled and leave **Add python.exe to PATH** unchecked, so this installation does not change which Python the `python` command finds. The `py -3.12` command selects Python 3.12 explicitly.
+3. Reopen the terminal in VS Code and run `py -3.12 --version` again to confirm the installation.
+
+If you already created `.venv` using the wrong Python version, rename that folder to `.venv-old` before continuing. If you are using Python 3.10 or 3.11, you can keep using it instead; replace `-3.12` below with your version.
+
+Run these commands **one line at a time** from the `offline_chatbot` folder:
+
 ```powershell
 py -3.12 -m venv .venv
+.\.venv\Scripts\python.exe --version
 .\.venv\Scripts\python.exe -m pip install torch==2.8.0 --index-url https://download.pytorch.org/whl/cpu
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
-If you installed Python 3.10 or 3.11 instead, replace `-3.12` with your version. The first install command selects PyTorch's CPU package to keep the download smaller.
+The version check should report the Python version you selected. The `.venv` folder keeps this chatbot's packages separate from your other Python installations and projects. The first install command selects PyTorch's CPU package to keep the download smaller.
 
 **macOS / Linux:**
 
